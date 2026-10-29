@@ -1,0 +1,3 @@
+observations,total_requests,mean,standard_deviation,minimum,percentile_25,median,percentile_75,maximum
+365,78211,214.27671232876712,133.45294939958143,56,156,197,238,1462
+

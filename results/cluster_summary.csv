@@ -1,0 +1,5 @@
+cluster,days,average_requests,minimum_requests,maximum_requests
+Weekend days,104,141.201923,56,457
+Typical weekdays,257,228.591440,61,643
+Extreme-volume weekdays,4,1194.500000,812,1462
+
